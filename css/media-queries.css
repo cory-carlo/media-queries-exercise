@@ -1,0 +1,53 @@
+body{
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+}
+
+
+.alert-info{
+    border: solid 2px lightgray;
+    text-align: center;
+    padding: 1em 0;
+    background-color: #CCFFFF;
+    color: #000000;
+
+
+
+}
+
+.nav-links{
+    list-style: none;
+    text-align: center;
+    width: 95%;
+    padding: 0;
+    margin: 0 auto;
+
+
+}
+
+.sub-section{
+    font-style: italic;
+}
+img{
+    width: 339px;
+    height: 224px;
+    margin: 0 auto;
+    display:block;
+}
+
+li{
+    background-color: #CCC;
+    margin: 1em;
+
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media screen and (min-width:992px) {
+
+}
