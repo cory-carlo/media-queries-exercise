@@ -9,7 +9,7 @@
 
 body{
     font-family: sans-serif;
-}
+
 a{
     text-decoration: none;
 }
@@ -44,6 +44,7 @@ h1{
 .sub-section{
     font-style: italic;
     font-weight: 700;
+
 }
 img{
     width: 339px;
@@ -58,6 +59,8 @@ li{
     padding: 1em 0;
     text-decoration: underline;
 }
+
+
 
 /* Medium devices (desktops, 992px and up) */
 @media screen and (min-width:992px) {
